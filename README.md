@@ -1,1 +1,1 @@
-# demo-app-vite
+# demo-vite-datapicker
